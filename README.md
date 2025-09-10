@@ -62,10 +62,5 @@ This project is licensed under the MIT License.
 👤 Author
 Created by Sudharshanmonith Let’s use data to make healthcare smarter and more compassionate.
 
-“The goal is to turn data into information, and information into insight.” – Carly Fiorina
 
-Code
 
----
-
-Want help adding ROC curves, SHAP explainability, or exporting predictions to CSV? I can help you expand the notebook into a full diagnostic dashboard.
