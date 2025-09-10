@@ -1,4 +1,4 @@
-markdown
+
 # 🩺 Predictive Analytics & Readmission Analysis for Diabetes Management
 
 This project uses machine learning to analyze hospital readmission data for diabetic patients, aiming to uncover patterns and build predictive models that can help healthcare providers reduce unnecessary readmissions and improve patient outcomes.
